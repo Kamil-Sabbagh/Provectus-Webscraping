@@ -1,4 +1,3 @@
-import pandas as pd
 import Utilities
 
 
@@ -46,10 +45,12 @@ for page in range(1 , number_of_pages+1) :
             data[label].append(product_data[label][0])
 
 
+#print(data)
 
-#finally we save the data as a csv file.
-data = pd.DataFrame.from_dict(data)
-data.to_csv('output.csv', index=False)
+
+output = 'output.csv'
+Utilities.save_in_csv(data , output)
+
 print("Job done successfully!")
 
 

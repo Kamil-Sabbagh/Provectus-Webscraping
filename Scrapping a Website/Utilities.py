@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import time
 import requests
+import csv
 
 #The data for out header for the HTML pages
 headers = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}
@@ -61,13 +62,20 @@ def get_all_data_of_product(product):
     except requests.exceptions.RequestException as e:
         print(e)
         exit()
-    #print(url)
+
+    pro_type = ''
     try:
         soup = BeautifulSoup(response.text, "html.parser")
-        pro_type = soup.find_all('div', class_='product-block-description__second-elem')
-        pro_type = pro_type[2].text
+        infos = soup.find_all('li', class_='product-block-description__item')
+        for info in infos:
+            temp = info.find('div', class_='product-block-description__first-elem').text.strip()
+            if temp == 'Тип' :
+                pro_type = info.find('div', class_='product-block-description__second-elem').text
+                break
+
     except IndexError:
         pro_type = None
+
 
 
     return pro_type, pro_name, ft, available, pro_price, url
@@ -91,3 +99,16 @@ def store_data(  shop_name, pro_type, pro_name, ft, available, pro_price, url):
 
     return data
 
+def save_in_csv(data, output):
+    #we open the csv file
+    with open(output, 'w', newline='') as csvfile:
+        #in the first line we write the header values which are the same as the keys in our dictionary
+        writer = csv.DictWriter(csvfile, fieldnames=data.keys())
+        writer.writeheader()
+        #then we save each row by itself
+        for value in range(len(data['store_name'])):
+            row = {'store_name': [], 'gpu_model': [], 'gpu_name': [], 'fetch_ts': [], 'gpu_price': [], 'in_stock': [],
+                   'url': []}
+            for key in data.keys():
+                row[key] = data[key][value]
+            writer.writerow(row)
