@@ -1,0 +1,129 @@
+store_name,gpu_model,gpu_name,fetch_ts,gpu_price,in_stock,url
+xcom-shop,nVidia GeForce 210,Afox GeForce G210,1636048846.0998309,3018,True,https://www.xcom-shop.ru//afox_geforce_g210_af210-1024d2lg2_873447.html
+xcom-shop,nVidia GeForce GT 610,Afox GeForce GT6,1636048846.4254014,3450,True,https://www.xcom-shop.ru//afox_geforce_gt610_786102.html
+xcom-shop,nVidia GeForce GT 710,Afox Geforce GT7,1636048846.8772583,4575,True,https://www.xcom-shop.ru//afox_geforce_gt710_687433.html
+xcom-shop,nVidia GeForce GT 730,Afox GeForce GT7,1636048847.4134119,6863,True,https://www.xcom-shop.ru//afox_geforce_gt730_786107.html
+xcom-shop,nVidia GeForce GT 220,Afox GeForce GT 220,1636048847.7382703,3103,True,https://www.xcom-shop.ru//afox_geforce_gt_220_af220-1024d3l4_873448.html
+xcom-shop,nVidia GeForce GTX 1660 Ti,ASUS GeForce GTX 1660 Ti TUF Gaming EVO OC,1636048848.099219,61837,True,https://www.xcom-shop.ru//asus_geforce_gtx_1660_ti_tuf_gaming_evo_oc_tuf-gtx1660ti-o6g-evo-gaming_869344.html
+xcom-shop,1266 МГц,ASUS GeForce GT 10,1636048848.5348265,9079,True,https://www.xcom-shop.ru//asus_geforce_gt_1030_583309.html
+xcom-shop,902 МГц,ASUS GeForce GT 7,1636048848.8829336,7435,True,https://www.xcom-shop.ru//asus_geforce_gt_730_538628.html
+xcom-shop,nVidia GeForce GT 730,ASUS GeForce GT 730,1636048849.3376698,7935,True,https://www.xcom-shop.ru//asus_geforce_gt_730_gt730-4h-sl-2gd5_873459.html
+xcom-shop,nVidia GeForce RTX 3060 Ti,ASUS GeForce RTX 3060 Ti DUAL OC,1636048849.7590652,89002,True,https://www.xcom-shop.ru//asus_geforce_rtx_3060_ti_dual_oc_dual-rtx3060ti-o8g-v2_860499.html
+xcom-shop,nVidia GeForce RTX 3070,ASUS GeForce RTX 3070 DUAL,1636048850.167207,112950,True,https://www.xcom-shop.ru//asus_geforce_rtx_3070_dual_dual-rtx3070-8g-v2_876124.html
+xcom-shop,nVidia GeForce RTX 3080,ASUS GeForce RTX 3080 ROG STRIX WHITE OC,1636048850.5651999,164421,True,https://www.xcom-shop.ru//asus_geforce_rtx_3080_rog_strix_white_oc_rog-strix-rtx3080-o10g-white-v2_866968.html
+xcom-shop,nVidia GeForce RTX 3080,ASUS GeForce RTX 3080 TUF GAMING OC,1636048850.9889467,166209,True,https://www.xcom-shop.ru//asus_geforce_rtx_3080_tuf_gaming_oc_tuf-rtx3080-o10g-v2-gaming_865035.html
+xcom-shop,nVidia GeForce RTX 3080,ASUS GeForce RTX 3080 TUF GAMING,1636048851.5311344,165494,True,https://www.xcom-shop.ru//asus_geforce_rtx_3080_tuf_gaming_tuf-rtx3080-10g-v2-gaming_867529.html
+xcom-shop,nVidia GeForce RTX 3090,ASUS GeForce RTX 3090 EK,1636048851.9216807,316333,True,https://www.xcom-shop.ru//asus_geforce_rtx_3090_ekwb_874588.html
+xcom-shop,nVidia GeForce RTX 3090,ASUS GeForce RTX 3090 TURBO,1636048852.422515,320979,True,https://www.xcom-shop.ru//asus_geforce_rtx_3090_turbo_turbo-rtx3090-24g_819720.html
+xcom-shop,AMD Radeon RX 6900X,ASUS Radeon RX 6900 XT ROG Strix LC,1636048852.8427398,185510,True,https://www.xcom-shop.ru//asus_radeon_rx_6900_xt_rog_strix_lc_rog-strix-lc-rx6900xt-t16g-gaming_870364.html
+xcom-shop,AMD Radeon RX 6900X,ASUS Radeon RX 6900 XT TUF GAMI,1636048853.3184097,177289,True,https://www.xcom-shop.ru//asus_radeon_rx_6900_xt_tuf_gaming_824672.html
+xcom-shop,nVidia GeForce GT 730,Colorful GeForce GT 730,1636048854.4557927,5985,True,https://www.xcom-shop.ru//colorful_geforce_gt_730_gt730k_2gd3-v_873460.html
+xcom-shop,nVidia GeForce RTX 3060,Colorful GeForce RTX 3060 NB DUO,1636048854.9977038,83283,True,https://www.xcom-shop.ru//colorful_geforce_rtx_3060_nb_duo_rtx_3060_nb_duo_12g_v2_l-v_876227.html
+xcom-shop,nVidia GeForce RTX 3070,Colorful GeForce RTX 3070 Ultra W,1636048855.5225768,123459,True,https://www.xcom-shop.ru//colorful_geforce_rtx_3070_ultra_w_rtx_3070_ultra_w_oc_lhr-v_876229.html
+xcom-shop,nVidia GeForce RTX 3080,Colorful GeForce RTX 3080 iGame Advanced OC 10G LHR,1636048855.8823948,171213,True,https://www.xcom-shop.ru//colorful_geforce_rtx_3080_igame_advanced_oc_10g_lhr-v_867520.html
+xcom-shop,nVidia GeForce RTX 3080 Ti,Colorful GeForce RTX 3080 Ti NB-V,1636048856.33436,194232,True,https://www.xcom-shop.ru//colorful_geforce_rtx_3080_ti_nb-v_rtx_3080_ti_nb-v_876228.html
+xcom-shop,nVidia GeForce RTX 3060,EVGA GeForce RTX 3060 XC GAMING,1636048856.8714368,89717,True,https://www.xcom-shop.ru//evga_geforce_rtx_3060_xc_gaming_12g-p5-3657-kr_833774.html
+xcom-shop,nVidia GeForce RTX 3070,EVGA GeForce RTX 3070 FTW3 ULTRA GAMING,1636048857.2517865,126890,True,https://www.xcom-shop.ru//evga_geforce_rtx_3070_ftw3_ultra_gaming_08g-p5-3767-kl_876225.html
+xcom-shop,nVidia GeForce RTX 3080,EVGA GeForce RTX 3080 FTW3 ULTRA GAMING,1636048857.7451818,163707,True,https://www.xcom-shop.ru//evga_geforce_rtx_3080_ftw3_ultra_gaming_10g-p5-3897-kl_866971.html
+xcom-shop,nVidia GeForce RTX 3080,EVGA GeForce RTX 3080 XC3 ULTRA GAMING,1636048858.2489314,179291,True,https://www.xcom-shop.ru//evga_geforce_rtx_3080_xc3_ultra_gaming_10g-p5-3885-kl_867527.html
+xcom-shop,nVidia GeForce GTX 1660 Ti,GIGABYTE GeForce GTX 1660 Ti,1636048859.0860827,61100,True,https://www.xcom-shop.ru//gigabyte_geforce_gtx_1660_ti_gv-n166toc-6gd_10a_875159.html
+xcom-shop,nVidia GeForce GT 1030,GIGABYTE GeForce GT 10,1636048859.5932705,8538,True,https://www.xcom-shop.ru//gigabyte_geforce_gt_1030_636091.html
+xcom-shop,nVidia GeForce GT 730,GIGABYTE GeForce GT 7,1636048860.0911217,7360,True,https://www.xcom-shop.ru//gigabyte_geforce_gt_730_610382.html
+xcom-shop,nVidia GeForce GT 730,GIGABYTE GeForce GT 730,1636048860.707474,6976,True,https://www.xcom-shop.ru//gigabyte_geforce_gt_730_gv-n730d3-2gi_30_873462.html
+xcom-shop,,GIGABYTE GeForce RTX 3060 EAGLE,1636048861.363491,84141,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3060_eagle_gv-n3060eagle-12gd_20_876218.html
+xcom-shop,,GIGABYTE GeForce RTX 3060 Ti VISION OC,1636048861.7652466,99868,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3060_ti_vision_oc_gv-n306tvision_oc-8gd_20_865063.html
+xcom-shop,,GIGABYTE GeForce RTX 3060 VISION OC,1636048862.1409671,87286,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3060_vision_oc_gv-n3060vision_oc-12gd_20_876220.html
+xcom-shop,nVidia GeForce RTX 3070,GIGABYTE GeForce RTX 3070 AORUS MASTER,1636048862.7315943,116882,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3070_aorus_master_gv-n3070aorus_m-8gd_20_875166.html
+xcom-shop,,GIGABYTE GeForce RTX 3060 VISION OC,1636048864.406708,87286,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3060_vision_oc_gv-n3060vision_oc-12gd_20_876220.html
+xcom-shop,nVidia GeForce RTX 3070,GIGABYTE GeForce RTX 3070 AORUS MASTER,1636048864.7067018,116882,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3070_aorus_master_gv-n3070aorus_m-8gd_20_875166.html
+xcom-shop,nVidia GeForce RTX 3070,GIGABYTE GeForce RTX 3070 GAMING OC,1636048865.0239918,111878,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3070_gaming_oc_gv-n3070gaming_oc-8gd_20_870373.html
+xcom-shop,nVidia GeForce RTX 3070 Ti,GIGABYTE GeForce RTX 3070 Ti AORUS MASTER,1636048865.4749222,134897,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3070_ti_aorus_master_gv-n307taorus_m-8gd_866965.html
+xcom-shop,nVidia GeForce RTX 3070 Ti,GIGABYTE GeForce RTX 3070 Ti GAMING OC,1636048866.0348513,129750,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3070_ti_gaming_oc_gv-n307tgaming_oc-8gd_875139.html
+xcom-shop,nVidia GeForce RTX 3080,GIGABYTE GeForce RTX 3080 AORUS XTREME,1636048866.3726008,160490,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3080_aorus_xtreme_gv-n3080aorus_x-10gd_20_867513.html
+xcom-shop,PCI-E x16,GIGABYTE GeForce RTX 3080 GAMING BOX,1636048867.0568943,198950,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3080_gaming_box_gv-n3080ixeb-10gd_20_876219.html
+xcom-shop,nVidia GeForce RTX 3080,GIGABYTE GeForce RTX 3080 GAMING OC,1636048867.6740515,171427,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3080_gaming_oc_gv-n3080gaming_oc-10gd_20_866970.html
+xcom-shop,nVidia GeForce RTX 3080,GIGABYTE GeForce RTX 3080 VISION OC,1636048868.1348903,168353,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3080_vision_oc_gv-n3080vision_oc-10gd_20_867515.html
+xcom-shop,nVidia GeForce RTX 3090,GIGABYTE GeForce RTX 3090 TURBO,1636048868.495376,325269,True,https://www.xcom-shop.ru//gigabyte_geforce_rtx_3090_turbo_gv-n3090turbo-24gd_816968.html
+xcom-shop,AMD Radeon RX 6900X,GIGABYTE Radeon RX 6900 XT GAMING OC,1636048868.897279,180864,True,https://www.xcom-shop.ru//gigabyte_radeon_rx_6900_xt_gaming_oc_gv-r69xtgaming_oc-16gd_837018.html
+xcom-shop,PCI-E x16,MSI GeForce GTX 1660 VENTUS XS OC,1636048869.5097165,62194,True,https://www.xcom-shop.ru//msi_geforce_gtx_1660_ventus_xs_oc_gtx_1660_ventus_xs_6g_oc_691838.html
+xcom-shop,nVidia GeForce GT 730,MSI GeForce GT 7,1636048870.032758,6434,True,https://www.xcom-shop.ru//msi_geforce_gt_730_530629.html
+xcom-shop,nVidia GeForce GT 730,MSI GeForce GT 730,1636048871.158001,8960,True,https://www.xcom-shop.ru//msi_geforce_gt_730_n730k-4gd3ocv1_873463.html
+xcom-shop,nVidia GeForce RTX 3060,MSI GeForce RTX 3060 GAMING X,1636048871.7620895,85785,True,https://www.xcom-shop.ru//msi_geforce_rtx_3060_gaming_x_rtx_3060_gaming_x_12g_830765.html
+xcom-shop,nVidia GeForce RTX 3070,MSI GeForce RTX 3070 GAMING Z TRIO,1636048872.961021,117597,True,https://www.xcom-shop.ru//msi_geforce_rtx_3070_gaming_z_trio_rtx_3070_gaming_z_trio_8g_lhr_876237.html
+xcom-shop,nVidia GeForce RTX 3080 Ti,MSI GeForce RTX 3080 Ti VENTUS 3X ,1636048873.7795618,199733,True,https://www.xcom-shop.ru//msi_geforce_rtx_3080_ti_ventus_3x_oc_867523.html
+xcom-shop,AMD Radeon RX 6700 XT,MSI Radeon RX 6700 XT MECH 2X 12G OC,1636048874.6389983,111092,True,https://www.xcom-shop.ru//msi_radeon_rx_6700_xt_mech_2x_12g_oc_rx_6700_xt_mech_2x_12g_oc_875141.html
+xcom-shop,AMD Radeon RX 6600,MSI Readeon RX 6600 MECH 2X,1636048875.0128167,68628,True,https://www.xcom-shop.ru//msi_readeon_rx_6600_mech_2x_rx_6600_mech_2x_8g_876238.html
+xcom-shop,PCI-E x16,nVidia Quadro GP1,1636048875.7952704,612745,True,https://www.xcom-shop.ru//nvidia_quadro_gp100_728407.html
+xcom-shop,PCI-E x16,nVidia Quadro RTX 80,1636048876.5191355,521855,True,https://www.xcom-shop.ru//nvidia_quadro_rtx_8000_798563.html
+xcom-shop,nVidia GeForce GTX 1050 Ti,Palit GeForce GTX 1050 Ti StormX,1636048877.4199443,26093,True,https://www.xcom-shop.ru//palit_geforce_gtx_1050_ti_stormx_ne5105t018g1-1070f_546737.html
+xcom-shop,nVidia GeForce GTX 1660 Ti,Palit GeForce GTX 1660 Ti Gho,1636048878.3176236,62123,True,https://www.xcom-shop.ru//palit_geforce_gtx_1660_ti_ghost_876217.html
+xcom-shop,PCI-E x16,Palit GeForce GTX 1660 Ti StormX,1636048878.735797,60050,True,https://www.xcom-shop.ru//palit_geforce_gtx_1660_ti_stormx_ne6166t018j9-161f_696697.html
+xcom-shop,nVidia GeForce GT 1030,Palit GeForce GT 10,1636048879.25601,10366,True,https://www.xcom-shop.ru//palit_geforce_gt_1030_623880.html
+xcom-shop,902 МГц,Palit GeForce GT 7,1636048879.8509657,6076,True,https://www.xcom-shop.ru//palit_geforce_gt_730_481288.html
+xcom-shop,nVidia GeForce RTX 3060,Palit GeForce RTX 3060 StormX,1636048880.3820028,75384,True,https://www.xcom-shop.ru//palit_geforce_rtx_3060_stormx_ne63060019k9-190af_833900.html
+xcom-shop,,PNY A1,1636048880.8760488,1160097,True,https://www.xcom-shop.ru//pny_a100_876276.html
+xcom-shop,nVidia A100,PNY A1,1636048881.3694565,978859,True,https://www.xcom-shop.ru//pny_a100_818965.html
+xcom-shop,24576 МБ,PNY A10,1636048881.9110057,304537,True,https://www.xcom-shop.ru//pny_a10_tcsa10mcec-pb_863219.html
+xcom-shop,24576 МБ,PNY A,1636048882.506505,437437,True,https://www.xcom-shop.ru//pny_a30_863220.html
+xcom-shop,nVidia GeForce GTX 1660 Ti,PNY GeForce GTX 1660 Ti XLR8,1636048883.0428069,60407,True,https://www.xcom-shop.ru//pny_geforce_gtx_1660_ti_xlr8_vcg1660t6dfppb_870368.html
+xcom-shop,nVidia GeForce RTX 3080,PNY GeForce RTX 3080 XLR8 GAMING REVEL EPIC-X LHR,1636048884.2083073,177718,True,https://www.xcom-shop.ru//pny_geforce_rtx_3080_xlr8_gaming_revel_epic-x_lhr_vcg308010ltfxp-blk_876213.html
+xcom-shop,nVidia GeForce RTX 3080,PNY GeForce RTX 3080 XLR8 Gaming REVEL EPIC-X RGB Triple Fan L,1636048884.8458846,179291,True,https://www.xcom-shop.ru//pny_geforce_rtx_3080_xlr8_gaming_revel_epic-x_rgb_triple_fan_lhr_876215.html
+xcom-shop,PCI-E x16,PNY Quadro P1000 ,1636048885.5728986,31455,True,https://www.xcom-shop.ru//pny_quadro_p1000_v2_770685.html
+xcom-shop,PCI-E x16,PNY Quadro P1000 ,1636048886.3146396,31996,True,https://www.xcom-shop.ru//pny_quadro_p1000_v2_770687.html
+xcom-shop,PCI-E x16,PNY Quadro P1000 ,1636048887.093777,30214,True,https://www.xcom-shop.ru//pny_quadro_p1000_v2_770684.html
+xcom-shop,PCI-E x16,PNY Quadro P1000 ,1636048887.7174442,32169,True,https://www.xcom-shop.ru//pny_quadro_p1000_v2_770688.html
+xcom-shop,nVidia Quadro P2000,PNY Quadro P2000,1636048888.3342826,47897,True,https://www.xcom-shop.ru//pny_quadro_p2000_vcqp2000-pb_572203.html
+xcom-shop,nVidia Quadro P2200,PNY Quadro P22,1636048889.0089881,55403,True,https://www.xcom-shop.ru//pny_quadro_p2200_741302.html
+xcom-shop,nVidia Quadro P2200,PNY Quadro P22,1636048889.6349144,56206,True,https://www.xcom-shop.ru//pny_quadro_p2200_741274.html
+xcom-shop,PCI-E x16,PNY Quadro P400 ,1636048890.3346472,10909,True,https://www.xcom-shop.ru//pny_quadro_p400_v2_770694.html
+xcom-shop,PCI-E x16,PNY Quadro P400 ,1636048891.0934942,10208,True,https://www.xcom-shop.ru//pny_quadro_p400_v2_770693.html
+xcom-shop,PCI-E x16,PNY Quadro P400 ,1636048891.7128053,10667,True,https://www.xcom-shop.ru//pny_quadro_p400_v2_838668.html
+xcom-shop,PCI-E x16,PNY Quadro P400 ,1636048892.3936355,10366,True,https://www.xcom-shop.ru//pny_quadro_p400_v2_770692.html
+xcom-shop,PCI-E x16,PNY Quadro P400 ,1636048892.8617086,11509,True,https://www.xcom-shop.ru//pny_quadro_p400_v2_770690.html
+xcom-shop,PCI-E x16,PNY Quadro P400 ,1636048893.5564597,10519,True,https://www.xcom-shop.ru//pny_quadro_p400_v2_831714.html
+xcom-shop,PCI-E x16,PNY Quadro P620 ,1636048894.194005,18059,True,https://www.xcom-shop.ru//pny_quadro_p620_v2_770697.html
+xcom-shop,PCI-E x16,PNY Quadro P620 ,1636048895.0116768,18266,True,https://www.xcom-shop.ru//pny_quadro_p620_v2_770698.html
+xcom-shop,nVidia Quadro RTX 4000,PNY Quadro RTX 40,1636048895.6207209,104167,True,https://www.xcom-shop.ru//pny_quadro_rtx_4000_687233.html
+xcom-shop,nVidia Quadro RTX 4000,PNY Quadro RTX 40,1636048895.9668562,87179,True,https://www.xcom-shop.ru//pny_quadro_rtx_4000_677409.html
+xcom-shop,nVidia Quadro RTX 4000,PNY Quadro RTX 40,1636048896.5849721,107663,True,https://www.xcom-shop.ru//pny_quadro_rtx_4000_687227.html
+xcom-shop,nVidia Quadro RTX 4000,PNY Quadro RTX 40,1636048897.2524045,88429,True,https://www.xcom-shop.ru//pny_quadro_rtx_4000_876275.html
+xcom-shop,nVidia Quadro RTX 5000,PNY Quadro RTX 50,1636048897.6713867,186072,True,https://www.xcom-shop.ru//pny_quadro_rtx_5000_770699.html
+xcom-shop,nVidia Quadro RTX 5000,PNY Quadro RTX 50,1636048898.934747,215830,True,https://www.xcom-shop.ru//pny_quadro_rtx_5000_677410.html
+xcom-shop,nVidia Quadro RTX 6000,PNY Quadro RTX 60,1636048899.7031689,341253,True,https://www.xcom-shop.ru//pny_quadro_rtx_6000_863217.html
+xcom-shop,PCI-E x16,PNY Quadro RTX 60,1636048900.3279777,431301,True,https://www.xcom-shop.ru//pny_quadro_rtx_6000_677411.html
+xcom-shop,PCI-E x16,PNY Quadro RTX 8000,1636048900.8195803,539581,True,https://www.xcom-shop.ru//pny_quadro_rtx_8000_vcqrtx8000-bsp_770701.html
+xcom-shop,PCI-E x16,PNY Quadro RTX 8000,1636048901.571533,573306,True,https://www.xcom-shop.ru//pny_quadro_rtx_8000_vcqrtx8000-pb_739318.html
+xcom-shop,nVidia Quadro RTX A5000,PNY RTX A5000,1636048902.1043143,266044,True,https://www.xcom-shop.ru//pny_rtx_a5000_vcnrtxa5000-pb_876277.html
+xcom-shop,nVidia Quadro RTX A6000,PNY RTX A6000,1636048902.7676475,502669,True,https://www.xcom-shop.ru//pny_rtx_a6000_vcnrtxa6000-pb_831713.html
+xcom-shop,nVidia Quadro RTX A6000,PNY RTX A6000,1636048903.1822934,477362,True,https://www.xcom-shop.ru//pny_rtx_a6000_vcnrtxa6000-sb_838665.html
+xcom-shop,,PNY T10,1636048903.9142091,33456,True,https://www.xcom-shop.ru//pny_t1000_878176.html
+xcom-shop,nVidia Quadro T1000,PNY T1000,1636048904.5252976,35226,True,https://www.xcom-shop.ru//pny_t1000_vcnt1000-blk_863222.html
+xcom-shop,nVidia Quadro T1000,PNY T1000,1636048905.1325314,33599,True,https://www.xcom-shop.ru//pny_t1000_vcnt1000-sb_863224.html
+xcom-shop,nVidia Quadro T1000,PNY T1000,1636048905.8597074,36472,True,https://www.xcom-shop.ru//pny_t1000_vcnt1000blk-1_863223.html
+xcom-shop,nVidia T400,PNY T400,1636048906.5529752,11018,True,https://www.xcom-shop.ru//pny_t400_vcnt400-blk_876272.html
+xcom-shop,nVidia T400,PNY T400,1636048907.1956534,11226,True,https://www.xcom-shop.ru//pny_t400_vcnt400-pb_876271.html
+xcom-shop,nVidia T400,PNY T400,1636048907.7817252,10723,True,https://www.xcom-shop.ru//pny_t400_vcnt400-sb_874805.html
+xcom-shop,nVidia T400,PNY T400,1636048908.3037765,11438,True,https://www.xcom-shop.ru//pny_t400_vcnt400blk-1_876273.html
+xcom-shop,nVidia T600,PNY T600,1636048908.8030405,19302,True,https://www.xcom-shop.ru//pny_t600_vcnt600-pb_876274.html
+xcom-shop,nVidia T600,PNY T600,1636048909.3127546,18587,True,https://www.xcom-shop.ru//pny_t600_vcnt600-sb_863225.html
+xcom-shop,nVidia Tesla T4,PNY TESLA ,1636048909.7229543,211246,True,https://www.xcom-shop.ru//pny_tesla_t4_789162.html
+xcom-shop,AMD Radeon RX 550,PowerColor Radeon RX550,1636048910.3486848,8936,True,https://www.xcom-shop.ru//powercolor_radeon_rx550_axrx_550_2gbd5-hlev2_869177.html
+xcom-shop,AMD Radeon RX 6700 XT,PowerColor Radeon RX 6700 XT Red Dev,1636048910.840211,115595,True,https://www.xcom-shop.ru//powercolor_radeon_rx_6700_xt_red_devil_848122.html
+xcom-shop,AMD Radeon RX 6900X,Sapphire Radeon RX 6900 XT TOXIC Extreme Editi,1636048912.0906193,189213,True,https://www.xcom-shop.ru//sapphire_radeon_rx_6900_xt_toxic_extreme_edition_851849.html
+xcom-shop,PCI-E x16,Sinotex GeForce GTX 750 ,1636048912.5432096,9591,True,https://www.xcom-shop.ru//sinotex_geforce_gtx_750_ti_652520.html
+xcom-shop,nVidia GeForce GT 220,Sinotex GeForce GT 220 Ninja,1636048913.0325692,3163,True,https://www.xcom-shop.ru//sinotex_geforce_gt_220_ninja_nh22np013f_873464.html
+xcom-shop,nVidia GeForce GT 610,Sinotex GeForce GT 610 Ninja,1636048913.4912267,3074,True,https://www.xcom-shop.ru//sinotex_geforce_gt_610_ninja_nk61np013f_873467.html
+xcom-shop,nVidia GeForce GT 730,Sinotex GeForce GT 7,1636048914.4879491,5130,True,https://www.xcom-shop.ru//sinotex_geforce_gt_730_691867.html
+xcom-shop,nVidia GeForce GT 740,Sinotex GeForce GT 740 Ninja,1636048914.9792745,10602,True,https://www.xcom-shop.ru//sinotex_geforce_gt_740_ninja_nh74np045f_873465.html
+xcom-shop,nVidia GeForce GT 740,Sinotex GeForce GT 740 Ninja,1636048915.433377,10687,True,https://www.xcom-shop.ru//sinotex_geforce_gt_740_ninja_nk74np045f_873466.html
+xcom-shop,AMD Radeon R5 230,Sinotex Radeon R5 230 Ninja,1636048915.8992357,3420,True,https://www.xcom-shop.ru//sinotex_radeon_r5_230_ninja_akr523013f_873456.html
+xcom-shop,AMD Radeon R5 230,Sinotex Radeon R5 230 Ninja,1636048916.537858,3646,True,https://www.xcom-shop.ru//sinotex_radeon_r5_230_ninja_akr523023f_873457.html
+xcom-shop,AMD Radeon R7 350,Sinotex Radeon R7 3,1636048917.1247587,6766,True,https://www.xcom-shop.ru//sinotex_radeon_r7_350_798276.html
+xcom-shop,AMD Radeon RX 6900X,XFX Radeon RX 6900 XT,1636048917.5817804,165851,True,https://www.xcom-shop.ru//xfx_radeon_rx_6900_xt_rx-69xtmaqfd_870369.html
+xcom-shop,PCI-E x16,Zotac GeForce RTX 2060,1636048917.947274,62909,True,https://www.xcom-shop.ru//zotac_geforce_rtx_2060_zt-t20600h-10m_728295.html
+xcom-shop,nVidia GeForce RTX 3060,Zotac GeForce RTX 3060 AMP White Edition,1636048918.3175898,84713,True,https://www.xcom-shop.ru//zotac_geforce_rtx_3060_amp_white_edition_zt-a30600f-10p_830768.html
+xcom-shop,nVidia GeForce RTX 3060,Zotac GeForce RTX 3060 Twin Edge,1636048918.7141852,84713,True,https://www.xcom-shop.ru//zotac_geforce_rtx_3060_twin_edge_zt-a30600e-10m_830766.html
+xcom-shop,nVidia GeForce RTX 3070,Zotac GeForce RTX 3070 Twin Edge OC LHR,1636048919.36079,125032,True,https://www.xcom-shop.ru//zotac_geforce_rtx_3070_twin_edge_oc_lhr_zt-a30700h-10plhr_876207.html
+xcom-shop,nVidia GeForce RTX 3070,Zotac GeForce RTX 3070 Twin Edge OC White Edition LHR,1636048920.0430381,125032,True,https://www.xcom-shop.ru//zotac_geforce_rtx_3070_twin_edge_oc_white_edition_lhr_zt-a30700j-10plhr_876210.html
+xcom-shop,nVidia GeForce RTX 3080 Ti,Zotac GeForce RTX 3080 Ti Trinity,1636048920.6556263,194232,True,https://www.xcom-shop.ru//zotac_geforce_rtx_3080_ti_trinity_zt-a30810d-10p_876212.html
+xcom-shop,nVidia GeForce RTX 3080,Zotac GeForce RTX 3080 Trinity OC LHR,1636048921.3077302,178505,True,https://www.xcom-shop.ru//zotac_geforce_rtx_3080_trinity_oc_lhr_zt-a30800j-10plhr_876208.html
