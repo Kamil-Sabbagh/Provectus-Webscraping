@@ -12,10 +12,6 @@ store_name, gpu_model, gpu_name, fetch_ts, gpu_price, in_stock, url
 
 # Running the crawler:
 
-First make sure to get the right path where tha script is at:
-```
-Scrapping a Website part 2/scrapping_a_website/scrapping_a_website/
-```
 
 To run the crawler `GPU_data_collector`, we first need to install all the requirements from `requirements.txt` using the command:
 
