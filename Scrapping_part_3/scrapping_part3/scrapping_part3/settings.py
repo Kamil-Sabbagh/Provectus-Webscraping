@@ -23,20 +23,10 @@ ROBOTSTXT_OBEY = False
 DOWNLOADER_MIDDLEWARES = {
     'scrapping_part3.middlewares.ProxyMiddleware': 543,
 }
-REQUESTS_PER_SAME_TOR_IDENTITY = 100
+
 
 from rotating_proxies.policy import BanDetectionPolicy
-'''
-for using tor and docker machine
-DOWNLOADER_MIDDLEWARES = {
-    'rotating_proxies.middlewares.RotatingProxyMiddleware': 610,
-    'rotating_proxies.middlewares.BanDetectionMiddleware': 620,
-}
-
-ROTATING_PROXY_LIST_PATH = 'proxy-list.txt'
-ROTATING_PROXY_PAGE_RETRY_TIMES = 5
-'''
-
+REQUESTS_PER_SAME_TOR_IDENTITY = 50
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
 

@@ -15,6 +15,10 @@ class GpuDataScrapper (scrapy.Spider):
         'https://www.onlinetrade.ru/catalogue/videokarty-c338/',
         ]
 
+
+    REQUESTS_PER_SAME_TOR_IDENTITY = 100
+
+
     # Settings for browsing
     user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) ' \
                  'Gecko/20100101 Firefox/47.3'

@@ -32,6 +32,9 @@ Next, copy the generated hash and add the below lines to the end of `/etc/tor/to
 ControlPort 9051
 HashedControlPassword GENERATEDHASH
 ```
+
+To authentic your tor requests, add the original password you used to generate the hash in 'password.txt'
+
 # Configuring Privoxy
 With your favorite editor, add the below lines at the end of `/etc/privoxy/config`
 ```
